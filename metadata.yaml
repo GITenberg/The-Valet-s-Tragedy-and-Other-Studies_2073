@@ -1,0 +1,32 @@
+_repo: The-Valet-s-Tragedy-and-Other-Studies_2073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History'
+- !lcsh 'World history'
+- GITenberg
+tableOfContents: The valet's tragedy -- The valet's master -- The mystery of Sir Edmund
+  Berry Godfrey -- The false Jeanne D'Arc -- Junius and Lord Lyttelton's ghost --
+  The mystery of Amy Robsart -- The voice of Jeanne D'Arc -- The mystery of James
+  de la Gloche -- The truth about "Fisher's ghost" -- The mystery of Lord Bateman
+  -- The queen's Marie -- The Shakespeare-Bacon imbroglio.
+title: The Valet's Tragedy, and Other Studies
+url: http://www.gutenberg.org/ebooks/2073
